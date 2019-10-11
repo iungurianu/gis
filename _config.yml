@@ -15,6 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: GIS Open-source
 subtitle: QGIS Workshops & more
+logo: "/assets/images/logo.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
