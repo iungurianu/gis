@@ -21,3 +21,5 @@ Sunt foarte des întâlnite situațiile când este nevoie să realizați o hart�
 * Setul de date
 
 # Să începem!
+1. Deschideți QGIS.
+2. În QGIS Browser executați click dreapta, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
