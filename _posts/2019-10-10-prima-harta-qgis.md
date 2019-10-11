@@ -10,9 +10,14 @@ tags:
   - cartografie
 toc: true
 ---
+Nivel de complexitate: **Începător**
+
 # Scurtă descriere
+Sunt foarte des întâlnite situațiile când este nevoie să realizați o hartă care să poată fi printată sau publicată. Acest workshop își propune să vă arate care sunt primii pași pentru a realiza o hartă în **QGIS** oferindu-vă în același timp un punct de plecare pentru realizarea unor produse cartografice mai avansate.
+# Cum va arata produsul final :)
+
 # Materiale necesare
 * QGIS 3.x
 * Setul de date
 
-### TEST
+# Să începem!
