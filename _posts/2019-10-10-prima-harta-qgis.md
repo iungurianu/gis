@@ -24,4 +24,6 @@ Sunt foarte des întâlnite situațiile când este nevoie să realizați o hart�
 1. Deschideți QGIS.
 2. În QGIS Browser executați click dreapta pe opțiunea **GeoPackage**, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
 3. În QGIS Browser, în submeniul GeoPackage observați că vă apare un nou container denumit: **natural_earth_vector.gpkg**. Puteți să îl deschideți executând dublu-click pentru a vizualiza ce date conține.
-~~ **TIP** Puteți citi mai multe informații despre cum sunt structurate datele accesând site-ul [Natural Earth](https://www.naturalearthdata.com/features/)~~
+```
+**TIP** Puteți citi mai multe informații despre cum sunt structurate datele accesând site-ul [Natural Earth](https://www.naturalearthdata.com/features/)
+```
