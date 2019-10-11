@@ -1,8 +1,14 @@
 ---
 permalink: /about/
-title: "About"
+title: "Despre mine"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+## Salutare!
+Numele meu este Ionuț Ungurianu.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Sr. GIS Consultant @ [Gauss](https://www.gauss.ro), membru [OSGeo](https://www.osgeo.org), co-fondator @[gistm.ro](https://www.gistm.ro), pasionat de **open-source** și cartografie.
+
+Acest spațiu găzduiește o colecție de workshop-uri bazate pe cea mai populară soluție GIS open-source - [ **QGIS**](https://www.qgis.org).
+
+## Disclaimer
+Informațiile din acest spațiu virtual nu reprezintă gândurile, intențiile, planurile sau strategiile angajatorului meu curent. Este doar părerea mea!
