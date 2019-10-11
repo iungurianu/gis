@@ -2,7 +2,7 @@
 title: "Prima hartă cu QGIS!"
 date: 2019-10-11T10:57:30-04:00
 categories:
-  - blog
+  - workshop
 tags:
   - Jekyll
   - update
