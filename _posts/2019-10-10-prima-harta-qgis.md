@@ -31,10 +31,10 @@ Puteți citi mai multe informații despre cum sunt
 structurate datele accesând site-ul 
 ![Natural Earth](https://www.naturalearthdata.com/features/)
 ```
-#### Adăugarea titlului
-* 
-#### Adăugarea legendei
-#### Adăugarea scării grafice
-#### Adăugarea Nordului
-#### Adăugarea autorului
+## Adăugarea titlului
+
+## Adăugarea legendei
+## Adăugarea scării grafice
+## Adăugarea Nordului
+## Adăugarea autorului
 #### Adăugarea logo-ului
