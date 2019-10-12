@@ -30,9 +30,10 @@ Pentru a parcurge acest workshop este necesar să aveți instalat **QGIS** (de p
 
 
 ## Crearea unui layout
-## Adăugarea titlului
-## Adăugarea legendei
-## Adăugarea scării grafice
-## Adăugarea Nordului
-## Adăugarea autorului
-## Adăugarea logo-ului
+## Titlu
+## Legendă
+## Scară grafică
+## Săgeata nordului
+## Autor
+## Logo
+## Export
