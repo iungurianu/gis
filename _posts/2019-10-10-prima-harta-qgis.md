@@ -23,6 +23,7 @@ La finalul workshop-ului vom obține această hartă.
 Pentru a parcurge acest workshop este necesar să aveți instalat **QGIS** (de preferat versiunea 3) și să downloadați pachetul de start realizat de Natural Earth de aici
 
 # Să începem!
+## Adăugarea datelor
 1. Deschideți QGIS.
 2. În QGIS Browser executați click dreapta pe opțiunea **GeoPackage**, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
 3. În QGIS Browser, în submeniul GeoPackage observați că vă apare un nou container denumit: **natural_earth_vector.gpkg**. Puteți să îl deschideți executând dublu-click pentru a vizualiza ce date conține.
@@ -31,6 +32,7 @@ Puteți citi mai multe informații despre cum sunt
 structurate datele accesând site-ul 
 ![Natural Earth](https://www.naturalearthdata.com/features/)
 ```
+## Crearea unui layout
 ## Adăugarea titlului
 
 ## Adăugarea legendei
