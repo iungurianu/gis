@@ -27,6 +27,8 @@ Pentru a parcurge acest workshop este necesar să aveți instalat **QGIS** (de p
 1. Deschideți QGIS.
 2. În QGIS Browser executați click dreapta pe opțiunea **GeoPackage**, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
 3. În QGIS Browser, în submeniul GeoPackage observați că vă apare un nou container denumit: **natural_earth_vector.gpkg**. Puteți să îl deschideți executând dublu-click pentru a vizualiza ce date conține.
+
+
 ## Crearea unui layout
 ## Adăugarea titlului
 ## Adăugarea legendei
