@@ -13,9 +13,8 @@ toc: true
 Nivel de complexitate: **Începător**
 
 # Prezentare generală
-Sunt foarte întâlnite situațiile când este nevoie să realizați o hartă pentru a fi imprimată sau publicată. Pentru acest workshop vom folosi ca date pachetul de start realizat de **Natural Earth** și ne vom concentra pe adăugarea elementelor care alcătuiesc layout-ul unei hărți (săgeata nordului, legendă, scară șamd) în **QGIS** și mai puțin spre deloc pe stilizarea straturilor.
-# Scurtă descriere
-Sunt foarte des întâlnite situațiile când este nevoie să realizați o hartă care să poată fi printată sau publicată. Acest workshop își propune să vă arate care sunt primii pași pentru a realiza o hartă în **QGIS** oferindu-vă în același timp un punct de plecare pentru realizarea unor produse cartografice mai avansate.
+Sunt foarte întâlnite situațiile când este nevoie să realizați o hartă pentru a fi imprimată sau publicată. Pornind de la pachetul de start realizat de **Natural Earth** vom explora cum putem crea și exporta o hartă în **QGIS** care să conțină elemente componente specifice (legendă, săgeata nordului, scară șamd).
+
 # Produsul final :)
 La finalul workshop-ului vom obține această hartă.
 ![Demo](https://github.com/iungurianu/gis/blob/master/assets/images/prima-harta-cu-qgis/demo.png)
