@@ -22,7 +22,7 @@ La finalul workshop-ului vom obține această hartă.
 # Materiale necesare
 Pentru a parcurge acest workshop este necesar să aveți instalat **QGIS** (de preferat versiunea 3) și să downloadați pachetul de start realizat de Natural Earth de aici
 
-# Să începem!
+# Crearea hărții
 ## Adăugarea datelor
 1. Deschideți QGIS.
 2. În QGIS Browser executați click dreapta pe opțiunea **GeoPackage**, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
@@ -34,9 +34,8 @@ structurate datele accesând site-ul
 ```
 ## Crearea unui layout
 ## Adăugarea titlului
-
 ## Adăugarea legendei
 ## Adăugarea scării grafice
 ## Adăugarea Nordului
 ## Adăugarea autorului
-#### Adăugarea logo-ului
+### Adăugarea logo-ului
