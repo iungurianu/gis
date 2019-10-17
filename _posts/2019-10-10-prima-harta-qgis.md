@@ -24,27 +24,31 @@ Pentru a parcurge acest workshop este necesar să aveți instalat **QGIS** (de p
 
 # Crearea hărții
 ## Adăugarea datelor
-1. Deschideți QGIS.
-2. În QGIS Browser adăugați la Favorite locația unde ați salvat pachetul de start
-3. Deschideți folderul și adăugați versiunea pentru QGIS 3.
-4. Pachetul de start de la Natural Earth este deja stilizat și conceput pentru diferite niveluri de zoom
-5. În panoul de straturi bifați grupul corespunzator nivelului 2 de zoom
-2. În QGIS Browser executați click dreapta pe opțiunea **GeoPackage**, alegeți **New connection** și navigați către locația unde ați salvat datele, alegeți **natural_earth_vector.gpkg**, click **Open**
-3. În QGIS Browser, în submeniul GeoPackage observați că vă apare un nou container denumit: **natural_earth_vector.gpkg**. Puteți să îl deschideți executând dublu-click pentru a vizualiza ce date conține.
+1. Deschideți QGIS și folosind QGIS Browser navigați către locația unde ați salvat pachetul de start;
+2. Extindeți folderul, localizați fișierul Natural_Earth_quick_start_for_QGIS_v3 și adăugați-l în QGIS executând dublu-click.
 
+![Demo](https://github.com/iungurianu/gis/blob/master/assets/images/prima-harta-cu-qgis/add_project.png)
 
-## Crearea unui layout
-Layout este instrumentul din QGIS unde putem să customizăm o hartă și să adăugăm elemente componente specifice.
-1. În meniul principal al QGIS mergeți la Project - New Print Layout
-2. Scrieți un nume, de exemplu prima harta, și dați OK. Observați că se deschide o fereastră nouă. În partea de sus sunt butoane de zoom, de export, în partea dreapta veți găsi butoane pentru adăugarea unei hărți, a unei legende, a scării etc, în timp ce în partea dreapta veți găsi opțiuni pentru customizarea elementelor adăugate și selectate din layout.
+3. Observați că denumirile sunt în limba greacă. Acest proiect folosește variabile pentru a seta limba.
+4. Mergeți la Project - Properties.
+5. Alegeți tab-ul Variables, găsiți project_language, dați click în coloana Value și schimbați din name_el în name_en. Click ok.
+6. Dați un refresh hărții.
+7. Asigurati-vă că în panoul de straturi singurul grup bifat este  z5-1:18m.
+7. Folosind instrumentele de navigare centrați și măriți harta pe zona Australiei.
 
-Înainte de a adaugă harta să facem niște setări, cum ar fi dimensiunea paginii sau orientarea acesteia
-1. În orice spațiul alb al foii executați click dreapta și alegeți Page properties
-2. În partea dreaptă se activează un panou, iar în tab-ul Item properties puteti alege la Size din dimensiunile predefinite (A4, A3 etc) sau puteți introduce dimensiunile dvs. custom. Tot de aici puteți seta orientarea paginii și o culoare pentru background.
+## Crearea unui layout și adăugarea hărții
+1. Mergeți la Project - New Print Layout
+2. În fereastra de dialog introduceți un nume, dacă doriți sau puteți să lăsați necompletat, și dați OK.
+3. În fereastra Print Layout, dați click pe butonul Zoom full pentru a afișa întregul extent al layout-ului.
+4. Mergeți la Add Item - Add Map și trasați pe foaia albă un dreptunghi pentru a aduce în Layout ceea ce vizualizăm în QGIS.
+5. Selectați chenarul hărții, iar în panoul din dreapta, în dreptul căsuței pentru Scara, dați click pe buton, alegeți opțiunea Edit, introduceți valoarea 2000000 și dați OK.
+6. Ajustați dimensiunea chenarului hărții astfel încât toata Australia să fie vizibilă.
 
-Adaugarea hărții
-3. Localizați în partea stângă butonul Add map și prin drag and drop trasați un dreptunghi pe foaia albă
 ## Titlu
+1. Mergeți la Add Item - Add Label și trasați un chenar acolo unde doriți să poziționați tilul.
+2. În panoul din dreapta, la Item Properties, modificați textul. Introduceți de exemplu: Australia
+3. Dați click pe butonul Font și alegeti 24 pentru size.
+4. Ajustați, dacă este nevoie, dimensiunea chenarului pentru titlu astfel încât să fie vizibil tot textul.
 ## Legendă
 ## Scară grafică
 ## Săgeata nordului
