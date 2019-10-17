@@ -8,7 +8,6 @@ tags:
   - gis
   - hartă
   - cartografie
-toc: true
 ---
 Nivel de complexitate: **Începător**
 
